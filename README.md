@@ -1,4 +1,4 @@
-##  Merhaba, ben Gurbet Ulutaş👋  
+##  Merhaba, Ben Gurbet Ulutaş👋  
 
 Frontend dünyasından Backend serüvenine uzanan bir yazılım geliştiriciyim.  
 React ve React Native ile modern kullanıcı arayüzleri oluştururken, Node.js ile arka uçta sağlam temeller atıyorum. Yenilikleri takip ederek sürekli öğrenmeye ve üretmeye devam ediyorum. 💡  
@@ -42,5 +42,5 @@ Her gün yeni bir şey öğrenmek, bu bilgiyi paylaşmak ve yazılım dünyasın
 ---
 
 ## 📬 Bana Ulaş:
-- 🌐 **LinkedIn:** [linkedin.com/in/gurbet-ulutas]  
+- 🌐 **LinkedIn:** [https://www.linkedin.com/in/gurbet-ulutaş-552356300/]  
 - ✉️ **E-posta:** [ulutasgurbet15@gmail.com]
